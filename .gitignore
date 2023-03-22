@@ -1,3 +1,4 @@
 /.idea
-/GFPGAN-1.3.8/gfpgan/weights/detection_Resnet50_Final.pth
-/GFPGAN-1.3.8/gfpgan/weights/parsing_parsenet.pth
+/gfpgan/weights/detection_Resnet50_Final.pth
+/gfpgan/weights/parsing_parsenet.pth
+/gfpgan/weights/GFPGANv1.3.pth

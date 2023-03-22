@@ -14,7 +14,7 @@ from gfpgan.archs.gfpganv1_clean_arch import GFPGANv1Clean
 CURRENT_SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
 
 #模型文件目录
-MODEL_ROOT_PATH = os.path.join(CURRENT_SCRIPT_PATH, '../gfpgan/weights')
+MODEL_ROOT_PATH = os.path.join(CURRENT_SCRIPT_PATH, '../../gfpgan/weights')
 
 class GFPGANer():
     """Helper for restoration with GFPGAN.

@@ -1,5 +1,5 @@
 import os
-from utils import GFPGANer
+from utils.gfpganer import GFPGANer
 import cv2
 from basicsr.utils import imwrite
 #当前脚本所在目录

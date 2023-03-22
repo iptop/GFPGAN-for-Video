@@ -22,3 +22,8 @@ gpu版本的pytouch不是必须的，没有安装的话会自动使用cpu计算
 ```bash
 pip3 install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu117
 ```
+
+## 安装ffmpeg
+```bash
+conda install -c conda-forge ffmpeg
+```

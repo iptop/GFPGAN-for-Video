@@ -27,3 +27,8 @@ pip3 install --pre torch torchvision torchaudio --index-url https://download.pyt
 ```bash
 conda install -c conda-forge ffmpeg
 ```
+
+## 修复视频
+```bash
+python src/video_enhance.py -i 1.mp4 -o 2.mp4
+```

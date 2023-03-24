@@ -11,3 +11,4 @@ torchvision
 tqdm
 yapf
 ffmpeg-python
+flask
